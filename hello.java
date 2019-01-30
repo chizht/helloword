@@ -1,0 +1,1 @@
+System.out.println("Ê±ÇøÆ«ÒÆ = "+hOffset);
